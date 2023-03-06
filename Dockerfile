@@ -1,3 +1,3 @@
 FROM ubantu
-RUN echo "Subscribe" > /tmp/testfile
+RUN echo "Subscribe" 
 
