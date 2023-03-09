@@ -1,3 +1,3 @@
-FROM ubantu 16.04
+FROM ubuntu 16.04
 RUN echo "Subscribe" 
 
